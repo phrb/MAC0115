@@ -1,10 +1,4 @@
 
-# Table of Contents
-
-1.  [MAC0115 - Introdução à Ciência da Computação para Ciências Exatas](#org1ce7fb8)
-
-
-<a id="org1ce7fb8"></a>
 
 # MAC0115 - Introdução à Ciência da Computação para Ciências Exatas
 

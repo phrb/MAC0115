@@ -1,3 +1,6 @@
+#+STARTUP: overview indent inlineimages logdrawer
+#+OPTIONS: toc:nil TeX:t LaTeX:t
+
 * MAC0115 - Introdução à Ciência da Computação para Ciências Exatas
   Este é  o site  do curso  /MAC0115 -  Introdução à  Ciência da  Computação para
   Ciências Exatas/, oferecido no segundo semestre de 2019 aos alunos do Instituto
