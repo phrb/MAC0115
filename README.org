@@ -1,7 +1,7 @@
 * MAC0115 - Segundo Semestre de 2019
   Este  repositório contém  o material  usado no  curso /MAC0115  - Introdução  à
   Ciência  da Computação  para Ciências  Exatas/, oferecido  no segundo  semestre
-  de 2019 aos alunos do Instituto Oceanográfico da USP.
+  de 2019 aos alunos do Instituto Oceanográfico da USP :ocean::whale::shark::blowfish::octopus::dolphin::ocean:
 
   Aqui também está  o site do curso, que contém  informações sobre os trabalhos,
   provas e notas, e todo o código usado nos exercícios em aula.
