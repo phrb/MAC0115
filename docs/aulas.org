@@ -1,13 +1,17 @@
 #+STARTUP: overview indent inlineimages logdrawer
-#+OPTIONS: toc:nil TeX:t LaTeX:t
+#+OPTIONS: toc:t TeX:t LaTeX:t
 
 * MAC0115 - Lista de Aulas
 
-Aqui você encontra /links/ para os /slides/ apresentados em aula, e também para todo
-o material complementar discutido em sala,  como livros, /sites/, vídeos, e demais
-recursos.
+  Aqui você encontra /links/ para os /slides/ apresentados em aula, e também para todo
+  o material complementar discutido em sala,  como livros, /sites/, vídeos, e demais
+  recursos.
+
+  [[file:index.html][Voltar]]
 
 ** Aula 1 - Computação sem Computador & Problemas de Lógica
+   [[MAC0115 - Lista de Aulas][Voltar]]
+
 *** O Quebra-Cabeça da Motivação (The Puzzle of Motivation)
     - [[https://www.youtube.com/watch?v=rrkrvAUbU9Y][TED Talk (Legendas em Português)]]
 *** Computação sem Computador

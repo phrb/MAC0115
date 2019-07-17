@@ -8,3 +8,5 @@ Oceanográfico da USP.
 
 Aqui você  encontra *links* para o  material usado nas aulas,  e informações sobre
 trabalhos, provas, e bibliografia.
+
+-   [Lista de Aulas](aulas.html)
