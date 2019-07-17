@@ -1,15 +1,16 @@
 
 # Table of Contents
 
-1.  [MAC0115 - Lista de Aulas](#org93fc3ed)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#orga225112)
-        1.  [O Quebra-Cabeça da Motivação (The Puzzle of Motivation)](#org22a7cd0)
-        2.  [Computação sem Computador](#org0dd0f58)
-        3.  [Problemas de Lógica](#org2f08dc2)
+1.  [MAC0115 - Lista de Aulas](#orgf5bf5d5)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#orgc823404)
+        1.  [Slides](#orga646425)
+        2.  [O Quebra-Cabeça da Motivação (The Puzzle of Motivation)](#org43c8e64)
+        3.  [Computação sem Computador](#org40d000b)
+        4.  [Problemas de Lógica](#orgbf4f616)
 
 
 
-<a id="org93fc3ed"></a>
+<a id="orgf5bf5d5"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -20,21 +21,28 @@ recursos.
 [Voltar](index.html)
 
 
-<a id="orga225112"></a>
+<a id="orgc823404"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar](#org93fc3ed)
+[Voltar](#orgf5bf5d5)
 
 
-<a id="org22a7cd0"></a>
+<a id="orga646425"></a>
+
+### Slides
+
+-   Em breve!
+
+
+<a id="org43c8e64"></a>
 
 ### O Quebra-Cabeça da Motivação (The Puzzle of Motivation)
 
 -   [TED Talk (Legendas em Português)](https://www.youtube.com/watch?v=rrkrvAUbU9Y)
 
 
-<a id="org0dd0f58"></a>
+<a id="org40d000b"></a>
 
 ### Computação sem Computador
 
@@ -42,7 +50,7 @@ recursos.
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="org2f08dc2"></a>
+<a id="orgbf4f616"></a>
 
 ### Problemas de Lógica
 

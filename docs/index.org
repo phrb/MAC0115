@@ -9,4 +9,6 @@
   Aqui você  encontra /links/ para o  material usado nas aulas,  e informações sobre
   trabalhos, provas, e bibliografia.
 
-  - [[file:aulas.html][Lista de Aulas]]
+** Conteúdo do Site
+- [[file:aulas.html][Lista de Aulas]]
+- EPs (em breve)
