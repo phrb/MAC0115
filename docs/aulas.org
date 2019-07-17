@@ -8,10 +8,10 @@
   o material complementar discutido em sala,  como livros, /sites/, vídeos, e demais
   recursos.
 
-  [[file:index.html][Voltar]]
+  [[file:index.html][Voltar para a Página Inicial]]
 
 ** Aula 1 - Computação sem Computador & Problemas de Lógica
-   [[MAC0115 - Lista de Aulas][Voltar]]
+   [[MAC0115 - Lista de Aulas][Voltar para a Lista de Aulas]]
 
 *** Slides
     - Em breve!
