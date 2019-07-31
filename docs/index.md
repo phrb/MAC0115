@@ -7,12 +7,23 @@ Ciências Exatas*, oferecido no segundo semestre de 2019 aos alunos do Instituto
 Oceanográfico da USP.
 
 Aqui você  encontra *links* para o  material usado nas aulas,  e informações sobre
-trabalhos, provas, e bibliografia.
+trabalhos,  provas, e  bibliografia.  [Aqui](./pdf/MAC0115.pdf)  você  pode baixar  um documento  com
+**informações importantes** sobre o curso.
 
 
 ## Conteúdo do Site
 
 -   [Lista de Aulas](aulas.html)
+
+
+### Metodologia de Avaliação
+
+-   Metodologia de Avaliação (Em breve, veja [este documento](./pdf/MAC0115.pdf))
+-   Questionários de Avaliação (Em breve)
+
+
+### Enunciados e Notas
+
 -   EPs (Em breve)
 -   mini-EPs (Em breve)
 -   Provas (Em breve)
