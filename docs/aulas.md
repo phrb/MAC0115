@@ -1,16 +1,18 @@
 
 # Table of Contents
 
-1.  [MAC0115 - Lista de Aulas](#org841d19a)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#orgf907e5c)
-        1.  [Slides](#orgad1e0b1)
-        2.  [O Quebra-Cabeça da Motivação (The Puzzle of Motivation)](#org5384098)
-        3.  [Computação sem Computador](#orgd1290e8)
-        4.  [Problemas de Lógica](#org945ddde)
+1.  [MAC0115 - Lista de Aulas](#org9b2b542)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org9874d0b)
+        1.  [Slides](#orgaf2b4f9)
+        2.  [Vídeos](#org5efd073)
+        3.  [Problemas de Lógica](#org14d2128)
+        4.  [Batalha Naval](#org7e3f385)
+    2.  [Aula 2 - Uma Breve História da Computação](#orgad7542f)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#orgfba2f60)
 
 
 
-<a id="org841d19a"></a>
+<a id="org9b2b542"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -21,36 +23,29 @@ recursos.
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="orgf907e5c"></a>
+<a id="org9874d0b"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#org841d19a)
+[Voltar para a Lista de Aulas](#org9b2b542)
 
 
-<a id="orgad1e0b1"></a>
+<a id="orgaf2b4f9"></a>
 
 ### Slides
 
 -   Em breve!
 
 
-<a id="org5384098"></a>
+<a id="org5efd073"></a>
 
-### O Quebra-Cabeça da Motivação (The Puzzle of Motivation)
+### Vídeos
 
--   [TED Talk (Legendas em Português)](https://www.youtube.com/watch?v=rrkrvAUbU9Y)
-
-
-<a id="orgd1290e8"></a>
-
-### Computação sem Computador
-
--   [Versão em Português](https://classic.csunplugged.org/wp-content/uploads/2014/12/CSUnpluggedTeachers-portuguese-brazil-feb-2011.pdf)
--   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
+-   [Como fazer um sanduíche?](https://www.youtube.com/watch?v=FN2RM-CHkuI) (Legendas em Inglês, selecione "Tradução automática para Português" no Youtube)
+-   [The Puzzle of Motivation, Problema da Vela](https://www.youtube.com/watch?v=rrkrvAUbU9Y) (Legendas em Português)
 
 
-<a id="org945ddde"></a>
+<a id="org14d2128"></a>
 
 ### Problemas de Lógica
 
@@ -58,3 +53,31 @@ recursos.
 -   Alguns desafios:
     -   [Casais de Férias](https://www.geniol.com.br/logica/desafios/casais-de-ferias/)
     -   [Vizinhança em Perigo](https://www.geniol.com.br/logica/desafios/vizinhanca-em-perigo/)
+
+
+<a id="org7e3f385"></a>
+
+### Batalha Naval
+
+A atividade *Batalha Naval* veio desse livro:
+
+-   [Versão em Português](https://classic.csunplugged.org/wp-content/uploads/2014/12/CSUnpluggedTeachers-portuguese-brazil-feb-2011.pdf)
+-   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
+
+
+<a id="orgad7542f"></a>
+
+## Aula 2 - Uma Breve História da Computação
+
+[Voltar para a Lista de Aulas](#org9b2b542)
+
+-   Em breve!
+
+
+<a id="orgfba2f60"></a>
+
+## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
+
+[Voltar para a Lista de Aulas](#org9b2b542)
+
+-   Em breve!

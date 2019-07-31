@@ -2,13 +2,15 @@
 #+OPTIONS: toc:nil TeX:t LaTeX:t
 
 * MAC0115 - Introdução à Ciência da Computação para Ciências Exatas
-  Este é  o site  do curso  /MAC0115 -  Introdução à  Ciência da  Computação para
-  Ciências Exatas/, oferecido no segundo semestre de 2019 aos alunos do Instituto
-  Oceanográfico da USP.
+Este é  o site  do curso  /MAC0115 -  Introdução à  Ciência da  Computação para
+Ciências Exatas/, oferecido no segundo semestre de 2019 aos alunos do Instituto
+Oceanográfico da USP.
 
-  Aqui você  encontra /links/ para o  material usado nas aulas,  e informações sobre
-  trabalhos, provas, e bibliografia.
+Aqui você  encontra /links/ para o  material usado nas aulas,  e informações sobre
+trabalhos, provas, e bibliografia.
 
 ** Conteúdo do Site
 - [[file:aulas.html][Lista de Aulas]]
-- EPs (em breve)
+- EPs (Em breve)
+- mini-EPs (Em breve)
+- Provas (Em breve)

@@ -13,4 +13,6 @@ trabalhos, provas, e bibliografia.
 ## Conteúdo do Site
 
 -   [Lista de Aulas](aulas.html)
--   EPs (em breve)
+-   EPs (Em breve)
+-   mini-EPs (Em breve)
+-   Provas (Em breve)

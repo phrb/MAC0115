@@ -11,17 +11,28 @@
   [[file:index.html][Voltar para a Página Inicial]]
 
 ** Aula 1 - Computação sem Computador & Problemas de Lógica
-   [[MAC0115 - Lista de Aulas][Voltar para a Lista de Aulas]]
+[[MAC0115 - Lista de Aulas][Voltar para a Lista de Aulas]]
 
 *** Slides
     - Em breve!
-*** O Quebra-Cabeça da Motivação (The Puzzle of Motivation)
-    - [[https://www.youtube.com/watch?v=rrkrvAUbU9Y][TED Talk (Legendas em Português)]]
-*** Computação sem Computador
-    - [[https://classic.csunplugged.org/wp-content/uploads/2014/12/CSUnpluggedTeachers-portuguese-brazil-feb-2011.pdf][Versão em Português]]
-    - [[https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf][Versão completa em Inglês]]
+*** Vídeos
+- [[https://www.youtube.com/watch?v=FN2RM-CHkuI][Como fazer um sanduíche?]] (Legendas em Inglês, selecione "Tradução automática para Português" no Youtube)
+- [[https://www.youtube.com/watch?v=rrkrvAUbU9Y][The Puzzle of Motivation, Problema da Vela]] (Legendas em Português)
 *** Problemas de Lógica
-    - [[https://www.geniol.com.br/logica/desafios/][Desafios de Lógica no Site Geniol]]
-    - Alguns desafios:
-      - [[https://www.geniol.com.br/logica/desafios/casais-de-ferias/][Casais de Férias]]
-      - [[https://www.geniol.com.br/logica/desafios/vizinhanca-em-perigo/][Vizinhança em Perigo]]
+- [[https://www.geniol.com.br/logica/desafios/][Desafios de Lógica no Site Geniol]]
+- Alguns desafios:
+  - [[https://www.geniol.com.br/logica/desafios/casais-de-ferias/][Casais de Férias]]
+  - [[https://www.geniol.com.br/logica/desafios/vizinhanca-em-perigo/][Vizinhança em Perigo]]
+*** Batalha Naval
+A atividade /Batalha Naval/ veio desse livro:
+- [[https://classic.csunplugged.org/wp-content/uploads/2014/12/CSUnpluggedTeachers-portuguese-brazil-feb-2011.pdf][Versão em Português]]
+- [[https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf][Versão completa em Inglês]]
+** Aula 2 - Uma Breve História da Computação
+[[MAC0115 - Lista de Aulas][Voltar para a Lista de Aulas]]
+
+- Em breve!
+
+** Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
+[[MAC0115 - Lista de Aulas][Voltar para a Lista de Aulas]]
+
+- Em breve!
