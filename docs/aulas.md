@@ -1,19 +1,19 @@
 
 # Table of Contents
 
-1.  [MAC0115 - Lista de Aulas](#org06628a3)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org4c238fb)
-        1.  [Metodologia de Avaliação para MAC0115](#orga233046)
-        2.  [Slides](#orgf5381ee)
-        3.  [Vídeos](#orgaefa6bb)
-        4.  [Problemas de Lógica](#org93c64ea)
-        5.  [Batalha Naval](#orgdb958a2)
-    2.  [Aula 2 - Uma Breve História da Computação](#orgda2340c)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#orgfad8da1)
+1.  [MAC0115 - Lista de Aulas](#orgdc5ad60)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org96c0b65)
+        1.  [Metodologia de Avaliação para MAC0115](#org5c8ba80)
+        2.  [Slides](#orgc0a65ba)
+        3.  [Vídeos](#org8c7e4ba)
+        4.  [Problemas de Lógica](#org2e293cd)
+        5.  [Batalha Naval](#org5f52477)
+    2.  [Aula 2 - Uma Breve História da Computação](#org1c1b013)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#orga0e1306)
 
 
 
-<a id="org06628a3"></a>
+<a id="orgdc5ad60"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -24,28 +24,28 @@ recursos.
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="org4c238fb"></a>
+<a id="org96c0b65"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#org06628a3)
+[Voltar para a Lista de Aulas](#orgdc5ad60)
 
 
-<a id="orga233046"></a>
+<a id="org5c8ba80"></a>
 
 ### Metodologia de Avaliação para MAC0115
 
 [Clique aqui](./pdf/MAC0115.pdf) para acessar o documento com a metodologia de avaliação.
 
 
-<a id="orgf5381ee"></a>
+<a id="orgc0a65ba"></a>
 
 ### Slides
 
--   Em breve!
+-   [Clique aqui](./pdf/aula_1.pdf) para acessar o `pdf` com os slides.
 
 
-<a id="orgaefa6bb"></a>
+<a id="org8c7e4ba"></a>
 
 ### Vídeos
 
@@ -54,7 +54,7 @@ recursos.
 -   [The Puzzle of Motivation, Problema da Vela](https://www.youtube.com/watch?v=rrkrvAUbU9Y) (Legendas em Português)
 
 
-<a id="org93c64ea"></a>
+<a id="org2e293cd"></a>
 
 ### Problemas de Lógica
 
@@ -64,7 +64,7 @@ recursos.
     -   [Vizinhança em Perigo](https://www.geniol.com.br/logica/desafios/vizinhanca-em-perigo/)
 
 
-<a id="orgdb958a2"></a>
+<a id="org5f52477"></a>
 
 ### Batalha Naval
 
@@ -74,19 +74,19 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="orgda2340c"></a>
+<a id="org1c1b013"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#org06628a3)
+[Voltar para a Lista de Aulas](#orgdc5ad60)
 
 -   Em breve!
 
 
-<a id="orgfad8da1"></a>
+<a id="orga0e1306"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#org06628a3)
+[Voltar para a Lista de Aulas](#orgdc5ad60)
 
 -   Em breve!

@@ -16,7 +16,7 @@
 *** Metodologia de Avaliação para MAC0115
 [[./pdf/MAC0115.pdf][Clique aqui]] para acessar o documento com a metodologia de avaliação.
 *** Slides
-    - Em breve!
+    - [[./pdf/aula_1.pdf][Clique aqui]] para acessar o =pdf= com os slides.
 *** Vídeos
 - [[https://www.youtube.com/watch?v=FN2RM-CHkuI][Como fazer um sanduíche?]] (Legendas em Inglês)
   - Selecione "tradução automática" e escolha Português
