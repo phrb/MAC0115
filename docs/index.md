@@ -24,6 +24,6 @@ trabalhos,  provas, e  bibliografia.  [Aqui](./pdf/MAC0115.pdf)  você  pode bai
 
 ### Enunciados e Notas
 
+-   [mini-EPs](mini_eps.html)
 -   EPs (Em breve)
--   mini-EPs (Em breve)
 -   Provas (Em breve)

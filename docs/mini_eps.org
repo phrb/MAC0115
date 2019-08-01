@@ -1,0 +1,19 @@
+#+STARTUP: overview indent inlineimages logdrawer
+#+OPTIONS: toc:t TeX:t LaTeX:t
+#+LANGUAGE: bt-br
+
+* Lista de mini-EPs
+Aqui você  encontra instruções e  informações sobre  os /mini-EPs/, que  devem ser
+entregues no [[https://paca.ime.usp.br/course/view.php?id=1448][PACA]].
+
+[[file:index.html][Voltar para a Página Inicial]]
+
+** Computação & Ciência: mini-EP1
+1. *Encontre* um exemplo de *pesquisa científica* que:
+   - Desperte o *seu interesse*
+   - Tenha sido *facilitado* ou *tornado possível* pela *computação moderna*
+     - *Sensores*, *satélites*, *volume de dados*, *simulações*, \dots
+2. *Escreva um parágrafo* resumindo a pesquisa
+   - Inclua *links* para a pesquisa
+3. *Entregue* um *arquivo =pdf=* no *PACA*
+   - Até a *próxima Quinta, 08/08*

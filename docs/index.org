@@ -16,6 +16,6 @@ trabalhos,  provas, e  bibliografia.  [[./pdf/MAC0115.pdf][Aqui]]  você  pode b
 - Metodologia de Avaliação (Em breve, veja [[./pdf/MAC0115.pdf][este documento]])
 - Questionários de Avaliação (Em breve)
 *** Enunciados e Notas
+- [[file:mini_eps.html][mini-EPs]]
 - EPs (Em breve)
-- mini-EPs (Em breve)
 - Provas (Em breve)

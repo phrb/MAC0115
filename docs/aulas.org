@@ -4,19 +4,19 @@
 
 * MAC0115 - Lista de Aulas
 
-  Aqui você encontra /links/ para os /slides/ apresentados em aula, e também para todo
-  o material complementar discutido em sala,  como livros, /sites/, vídeos, e demais
-  recursos.
+Aqui você encontra /links/ para os /slides/ apresentados em aula, e também para todo
+o material complementar discutido em sala,  como livros, /sites/, vídeos, e demais
+recursos.
 
-  [[file:index.html][Voltar para a Página Inicial]]
+[[file:index.html][Voltar para a Página Inicial]]
 
 ** Aula 1 - Computação sem Computador & Problemas de Lógica
 [[MAC0115 - Lista de Aulas][Voltar para a Lista de Aulas]]
 
 *** Metodologia de Avaliação para MAC0115
-[[./pdf/MAC0115.pdf][Clique aqui]] para acessar o documento com a metodologia de avaliação.
+- [[./pdf/MAC0115.pdf][Clique aqui]] para acessar o documento com a metodologia de avaliação
 *** Slides
-    - [[./pdf/aula_1.pdf][Clique aqui]] para acessar o =pdf= com os slides.
+- [[./pdf/aula_1.pdf][Clique aqui]] para acessar o =pdf= com os slides
 *** Vídeos
 - [[https://www.youtube.com/watch?v=FN2RM-CHkuI][Como fazer um sanduíche?]] (Legendas em Inglês)
   - Selecione "tradução automática" e escolha Português
@@ -33,7 +33,60 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
 ** Aula 2 - Uma Breve História da Computação
 [[MAC0115 - Lista de Aulas][Voltar para a Lista de Aulas]]
 
-- Em breve!
+*** Slides
+- [[./pdf/breve_historia_computação.pdf][Clique aqui]] para acessar o =pdf= com os slides
+*** Computação & Ciência: mini-EP1
+1. *Encontre* um exemplo de *pesquisa científica* que:
+   - Desperte o *seu interesse*
+   - Tenha sido *facilitado* ou *tornado possível* pela *computação moderna*
+     - *Sensores*, *satélites*, *volume de dados*, *simulações*, \dots
+2. *Escreva um parágrafo* resumindo a pesquisa
+   - Inclua *links* para a pesquisa
+3. *Entregue* um *arquivo =pdf=* no *PACA*
+   - Até a *próxima Quinta, 08/08*
+*** Recursos Extras
+**** Visão Geral
+- [[http://lig-membres.imag.fr/krakowia/Files/Enseignement/Histoire-Informatique/Cours/index.html][Curso inteiro]] sobre História da Computação (em Francês)
+- [[https://www.ime.usp.br/~song/mac344/slides02-evolution.pdf][Aula do Prof. Siang]], da USP
+***** Livros
+- [[https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software][Code: The Hidden Language of Computer Hardware and Software]]
+- [[https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood][The Information: A History, a Theory, a Flood]]
+***** Mais links
+- https://www.livescience.com/20718-computer-history.html
+- https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading03.htm
+- https://en.wikipedia.org/wiki/Computer
+- https://www.computerhistory.org/
+- https://www.computerhistory.org/timeline/
+**** Melhores/Piores Usos
+*Melhores* usos:
+- Desenvolvimento de *fármacos*
+- Mapeamento do *cérebro humano*
+- Simulações *climáticas* e *sísmicas*
+- *Planejamento urbano*
+- *Astrofísica* e *Cosmologia*
+- Você pode baixar o =pdf= do relatório da Comissão Europeia [[http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=49301][aqui]]
+
+*Piores* usos, alguns *livros interessantes*:
+- *The Age of Surveillance Capitalism*, 2018
+- *Weapons of Math Destruction*, 2017
+- *Data and Goliath*, 2015
+**** Computação na Cultura
+- [[https://pt.wikipedia.org/wiki/Neuromancer][Neuromancer]] (Romance fundador do /cyberpunk/)
+- [[https://pt.wikipedia.org/wiki/The_Difference_Engine][A Máquina Diferencial]] (Romance fundador do /steampunk/ sobre Babbage e Ada)
+- [[https://pt.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach][Godel, Escher, Bach]]
+***** Vídeos e Filmes
+- [[https://www.youtube.com/playlist?list=PLZioPDnFPNsHnyxfygxA0to4RXv4_jDU2][Antikythera reconstruction]]
+- [[https://www.youtube.com/watch?v=Z5JC9Ve1sfI][What's you computer actually doing?]]
+- [[https://www.youtube.com/watch?v=Tr9E_vzKRVo][The history of programming]]
+- [[https://pt.wikipedia.org/wiki/O_Jogo_da_Imita%C3%A7%C3%A3o][Jogo da Imitação]] (Sobre Turing)
+- [[https://pt.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell]]
+**** Computação & Oceanografia
+- [[http://www.cev.washington.edu/index.html][Center for Environment Visualization]]
+- [[https://faculty.washington.edu/pmacc/LO/LiveOcean.html][LiveOcean]]: Simulações
+- [[http://www.ncsa.illinois.edu/news/story/the_fragile_balance_of_the_most_productive_ecosystems][Simulando transporte de sedimentos com HPC]]
+  - [[https://bluewaters.ncsa.illinois.edu/liferay-content/document-library/18symposium-slides/cook.pdf][Apresentação]]
+- [[https://www.onepetro.org/conference-paper/ISOPE-I-02-281][Modelagem de ondas e correntes]]
+- [[https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577][Previsão de Tsunamis]]
 
 ** Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 [[MAC0115 - Lista de Aulas][Voltar para a Lista de Aulas]]
