@@ -1,6 +1,6 @@
 
 
-<a id="orgc119a7d"></a>
+<a id="org59ca355"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -11,19 +11,19 @@ recursos.
 
 # &Iacute;ndice
 
-1.  [MAC0115 - Lista de Aulas](#orgc119a7d)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org4c8f6ef)
-    2.  [Aula 2 - Uma Breve História da Computação](#orgbcc2ebb)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org90b8d4b)
+1.  [MAC0115 - Lista de Aulas](#org59ca355)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#orgf463ee8)
+    2.  [Aula 2 - Uma Breve História da Computação](#orga8e3f36)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org40aae2f)
 
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="org4c8f6ef"></a>
+<a id="orgf463ee8"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#orgc119a7d)
+[Voltar para a Lista de Aulas](#org59ca355)
 
 
 ### Metodologia de Avaliação para MAC0115
@@ -59,11 +59,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="orgbcc2ebb"></a>
+<a id="orga8e3f36"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#orgc119a7d)
+[Voltar para a Lista de Aulas](#org59ca355)
 
 
 ### Computação & Ciência: mini-EP1
@@ -87,16 +87,23 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 
 1.  Visão Geral sobre Computação
 
-    1.  [Curso inteiro](http://lig-membres.imag.fr/krakowia/Files/Enseignement/Histoire-Informatique/Cours/index.html) sobre História da Computação (em Francês)
-    2.  [Aula do Prof. Siang](https://www.ime.usp.br/~song/mac344/slides02-evolution.pdf), da USP
+    1.  Computação & Arquitetura de Hardware
 
-    1.  Livros
+        1.  [Curso inteiro](http://lig-membres.imag.fr/krakowia/Files/Enseignement/Histoire-Informatique/Cours/index.html) sobre História da Computação (em Francês)
+        2.  [Aula do Prof. Siang](https://www.ime.usp.br/~song/mac344/slides02-evolution.pdf), da USP
+
+    2.  Linguagens de Programação
+
+        1.  [Site do Pascal Rigaux](http://rigaux.org/language-study/diagram.html): Contém árvores genealógicas da evolução das linguagens
+            de programação feitas pelo Rigaux, e links para outras árvores.
+
+    3.  Livros
 
         1.  [Code: The Hidden Language of Computer Hardware and Software](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software)
         2.  [The Information: A History, a Theory, a Flood](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood)
         3.  [The New Turing Omnibus](https://www.amazon.com/New-Turing-Omnibus-Sixty-Six-Excursions/dp/0805071660)
 
-    2.  Mais links
+    4.  Mais links
 
         1.  <https://www.livescience.com/20718-computer-history.html>
         2.  <https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading03.htm>
@@ -167,10 +174,10 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     5.  [Previsão de Tsunamis](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577)
 
 
-<a id="org90b8d4b"></a>
+<a id="org40aae2f"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#orgc119a7d)
+[Voltar para a Lista de Aulas](#org59ca355)
 
 -   Em breve!

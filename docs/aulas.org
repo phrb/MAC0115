@@ -48,8 +48,12 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
 - [[./pdf/breve_historia_computação.pdf][Clique aqui]] para acessar o =pdf= com os slides
 *** Recursos Extras
 **** Visão Geral sobre Computação
+***** Computação & Arquitetura de Hardware
 1. [[http://lig-membres.imag.fr/krakowia/Files/Enseignement/Histoire-Informatique/Cours/index.html][Curso inteiro]] sobre História da Computação (em Francês)
 2. [[https://www.ime.usp.br/~song/mac344/slides02-evolution.pdf][Aula do Prof. Siang]], da USP
+***** Linguagens de Programação
+1. [[http://rigaux.org/language-study/diagram.html][Site do Pascal Rigaux]]: Contém árvores genealógicas da evolução das linguagens
+   de programação feitas pelo Rigaux, e links para outras árvores.
 ***** Livros
 1. [[https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software][Code: The Hidden Language of Computer Hardware and Software]]
 2. [[https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood][The Information: A History, a Theory, a Flood]]
