@@ -1,6 +1,6 @@
 
 
-<a id="org3ee139c"></a>
+<a id="orgc119a7d"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -11,19 +11,19 @@ recursos.
 
 # &Iacute;ndice
 
-1.  [MAC0115 - Lista de Aulas](#org3ee139c)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org0a11e7c)
-    2.  [Aula 2 - Uma Breve História da Computação](#org1af208b)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org85ff01b)
+1.  [MAC0115 - Lista de Aulas](#orgc119a7d)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org4c8f6ef)
+    2.  [Aula 2 - Uma Breve História da Computação](#orgbcc2ebb)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org90b8d4b)
 
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="org0a11e7c"></a>
+<a id="org4c8f6ef"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#org3ee139c)
+[Voltar para a Lista de Aulas](#orgc119a7d)
 
 
 ### Metodologia de Avaliação para MAC0115
@@ -59,11 +59,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="org1af208b"></a>
+<a id="orgbcc2ebb"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#org3ee139c)
+[Voltar para a Lista de Aulas](#orgc119a7d)
 
 
 ### Computação & Ciência: mini-EP1
@@ -117,9 +117,9 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 
     **Piores** usos, alguns **livros interessantes**:
 
-    1.  **Weapons of Math Destruction**, 2017
-    2.  **Data and Goliath**, 2015
-    3.  **The Age of Surveillance Capitalism**, 2018
+    1.  [Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/) (2017)
+    2.  [Data and Goliath](https://www.schneier.com/books/data_and_goliath/) (2015)
+    3.  [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism) (2018)
 
 3.  Computação na Cultura
 
@@ -167,10 +167,10 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     5.  [Previsão de Tsunamis](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577)
 
 
-<a id="org85ff01b"></a>
+<a id="org90b8d4b"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#org3ee139c)
+[Voltar para a Lista de Aulas](#orgc119a7d)
 
 -   Em breve!
