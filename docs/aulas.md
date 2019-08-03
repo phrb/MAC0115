@@ -1,6 +1,6 @@
 
 
-<a id="org70b8e98"></a>
+<a id="org3ee139c"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -11,19 +11,19 @@ recursos.
 
 # &Iacute;ndice
 
-1.  [MAC0115 - Lista de Aulas](#org70b8e98)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#orgfed73e0)
-    2.  [Aula 2 - Uma Breve História da Computação](#org00c6ea8)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#orgd973c82)
+1.  [MAC0115 - Lista de Aulas](#org3ee139c)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org0a11e7c)
+    2.  [Aula 2 - Uma Breve História da Computação](#org1af208b)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org85ff01b)
 
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="orgfed73e0"></a>
+<a id="org0a11e7c"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#org70b8e98)
+[Voltar para a Lista de Aulas](#org3ee139c)
 
 
 ### Metodologia de Avaliação para MAC0115
@@ -59,11 +59,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="org00c6ea8"></a>
+<a id="org1af208b"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#org70b8e98)
+[Voltar para a Lista de Aulas](#org3ee139c)
 
 
 ### Computação & Ciência: mini-EP1
@@ -143,12 +143,13 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
         5.  [Hackers](https://en.wikipedia.org/wiki/Hackers_(film)) (1995)
         6.  [The Matrix](https://en.wikipedia.org/wiki/The_Matrix) (1999)
         7.  [Office Space](https://en.wikipedia.org/wiki/Office_Space) (1999)
-        8.  [Source Code](https://en.wikipedia.org/wiki/Source_Code) (2011)
-        9.  [TPB AFK](https://www.youtube.com/watch?v=eTOKXCEwo_8) (2013)
-        10. [Ex Machina](https://en.wikipedia.org/wiki/Ex_Machina_(film)) (2014)
-        11. [Transcendence](https://en.wikipedia.org/wiki/Transcendence_(2014_film)) (2014)
-        12. [Citizenfour](https://en.wikipedia.org/wiki/Citizenfour) (2014)
-        13. [The Imitation Game](https://en.wikipedia.org/wiki/The_Imitation_Game) (2014)
+        8.  [Swordfish](https://en.wikipedia.org/wiki/Swordfish_(film)) (2001)
+        9.  [Source Code](https://en.wikipedia.org/wiki/Source_Code) (2011)
+        10. [TPB AFK](https://www.youtube.com/watch?v=eTOKXCEwo_8) (2013)
+        11. [Ex Machina](https://en.wikipedia.org/wiki/Ex_Machina_(film)) (2014)
+        12. [Transcendence](https://en.wikipedia.org/wiki/Transcendence_(2014_film)) (2014)
+        13. [Citizenfour](https://en.wikipedia.org/wiki/Citizenfour) (2014)
+        14. [The Imitation Game](https://en.wikipedia.org/wiki/The_Imitation_Game) (2014)
 
     3.  Vídeos
 
@@ -166,10 +167,10 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     5.  [Previsão de Tsunamis](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577)
 
 
-<a id="orgd973c82"></a>
+<a id="org85ff01b"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#org70b8e98)
+[Voltar para a Lista de Aulas](#org3ee139c)
 
 -   Em breve!
