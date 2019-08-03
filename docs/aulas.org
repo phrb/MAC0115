@@ -70,9 +70,9 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
 6. Você pode baixar o =pdf= do relatório da Comissão Europeia [[http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=49301][aqui]]
 
 *Piores* usos, alguns *livros interessantes*:
-1. *Weapons of Math Destruction*, 2017
-2. *Data and Goliath*, 2015
-3. *The Age of Surveillance Capitalism*, 2018
+1. [[https://weaponsofmathdestructionbook.com/][Weapons of Math Destruction]] (2017)
+2. [[https://www.schneier.com/books/data_and_goliath/][Data and Goliath]] (2015)
+3. [[https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism][The Age of Surveillance Capitalism]] (2018)
 **** Computação na Cultura
 ***** Livros
 1. [[https://pt.wikipedia.org/wiki/Neuromancer][Neuromancer]] (Um dos romances fundadores do /cyberpunk/)
