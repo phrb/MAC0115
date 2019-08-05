@@ -13,7 +13,7 @@ trabalhos,  provas, e  bibliografia.  [[./pdf/MAC0115.pdf][Aqui]]  você  pode b
 ** Conteúdo do Site
 - [[file:aulas.html][Lista de Aulas]]
 *** Metodologia de Avaliação
-- Metodologia de Avaliação (Em breve, veja [[./pdf/MAC0115.pdf][este documento]])
+- [[./pdf/MAC0115.pdf][Metodologia de Avaliação]]
 - Questionários de Avaliação (Em breve)
 *** Enunciados e Notas
 - [[file:mini_eps.html][mini-EPs]]

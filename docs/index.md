@@ -18,7 +18,7 @@ trabalhos,  provas, e  bibliografia.  [Aqui](./pdf/MAC0115.pdf)  você  pode bai
 
 ### Metodologia de Avaliação
 
--   Metodologia de Avaliação (Em breve, veja [este documento](./pdf/MAC0115.pdf))
+-   [Metodologia de Avaliação](./pdf/MAC0115.pdf)
 -   Questionários de Avaliação (Em breve)
 
 
