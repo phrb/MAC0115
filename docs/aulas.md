@@ -1,6 +1,6 @@
 
 
-<a id="org3562d6e"></a>
+<a id="org65068a8"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -11,19 +11,19 @@ recursos.
 
 # &Iacute;ndice
 
-1.  [MAC0115 - Lista de Aulas](#org3562d6e)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org668e440)
-    2.  [Aula 2 - Uma Breve História da Computação](#org611e17d)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org2d69241)
+1.  [MAC0115 - Lista de Aulas](#org65068a8)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org6c26d7e)
+    2.  [Aula 2 - Uma Breve História da Computação](#org3e23600)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org6e6a310)
 
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="org668e440"></a>
+<a id="org6c26d7e"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#org3562d6e)
+[Voltar para a Lista de Aulas](#org65068a8)
 
 
 ### Metodologia de Avaliação para MAC0115
@@ -59,11 +59,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="org611e17d"></a>
+<a id="org3e23600"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#org3562d6e)
+[Voltar para a Lista de Aulas](#org65068a8)
 
 
 ### Computação & Ciência: mini-EP1
@@ -96,6 +96,8 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 
         1.  [Site do Pascal Rigaux](http://rigaux.org/language-study/diagram.html): Contém árvores genealógicas da evolução das linguagens
             de programação feitas pelo Rigaux, e links para outras árvores.
+            1.  [Árvore anotada vista em aula](./img/programming_language_tree.png) (png)
+            2.  [Árvore anotada vista em aula](./img/programming_language_tree.svg) (svg, vetorial editável)
 
     3.  Livros
 
@@ -184,10 +186,10 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     5.  [Previsão de Tsunamis](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577)
 
 
-<a id="org2d69241"></a>
+<a id="org6e6a310"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#org3562d6e)
+[Voltar para a Lista de Aulas](#org65068a8)
 
 -   Em breve!

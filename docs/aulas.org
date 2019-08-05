@@ -54,6 +54,8 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
 ***** Linguagens de Programação
 1. [[http://rigaux.org/language-study/diagram.html][Site do Pascal Rigaux]]: Contém árvores genealógicas da evolução das linguagens
    de programação feitas pelo Rigaux, e links para outras árvores.
+   1. [[./img/programming_language_tree.png][Árvore anotada vista em aula]] (png)
+   2. [[./img/programming_language_tree.svg][Árvore anotada vista em aula]] (svg, vetorial editável)
 ***** Livros
 1. [[https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software][Code: The Hidden Language of Computer Hardware and Software]]
 2. [[https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood][The Information: A History, a Theory, a Flood]]
