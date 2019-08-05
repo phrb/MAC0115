@@ -59,6 +59,13 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
 2. [[https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood][The Information: A History, a Theory, a Flood]]
 3. [[https://www.amazon.com/New-Turing-Omnibus-Sixty-Six-Excursions/dp/0805071660][The New Turing Omnibus]]
 ***** Mais links
+****** O que é computação?
+1. [[https://en.wikipedia.org/wiki/Quantum_computing][Quantum computing]]
+2. [[https://en.wikipedia.org/wiki/DNA_computing][DNA computing]]
+3. [[https://en.wikipedia.org/wiki/Wetware_computer][Wetware computer]]
+4. [[https://en.wikipedia.org/wiki/Molecular_electronics][Molecular electronics]]
+5. [[https://en.wikipedia.org/wiki/Membrane_computing][Membrane computing]]
+****** Outros
 1. https://www.livescience.com/20718-computer-history.html
 2. https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading03.htm
 3. https://en.wikipedia.org/wiki/Computer
