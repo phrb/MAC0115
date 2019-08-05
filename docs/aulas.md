@@ -1,6 +1,6 @@
 
 
-<a id="org65068a8"></a>
+<a id="org14e2741"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -11,19 +11,19 @@ recursos.
 
 # &Iacute;ndice
 
-1.  [MAC0115 - Lista de Aulas](#org65068a8)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org6c26d7e)
-    2.  [Aula 2 - Uma Breve História da Computação](#org3e23600)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org6e6a310)
+1.  [MAC0115 - Lista de Aulas](#org14e2741)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#orgcc7be6a)
+    2.  [Aula 2 - Uma Breve História da Computação](#org5ed5890)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#orge7a1768)
 
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="org6c26d7e"></a>
+<a id="orgcc7be6a"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#org65068a8)
+[Voltar para a Lista de Aulas](#org14e2741)
 
 
 ### Metodologia de Avaliação para MAC0115
@@ -59,11 +59,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="org3e23600"></a>
+<a id="org5ed5890"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#org65068a8)
+[Voltar para a Lista de Aulas](#org14e2741)
 
 
 ### Computação & Ciência: mini-EP1
@@ -76,6 +76,12 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     -   Inclua **links** para a pesquisa
 3.  **Entregue** um **arquivo `pdf`** no **PACA**
     -   Até a **próxima Quinta, 08/08**
+
+
+### Nuvens de Palavras e Perguntas ao Vivo
+
+1.  Vá até <https://menti.com>
+2.  Use o código `95 16 17`
 
 
 ### Slides
@@ -186,10 +192,10 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     5.  [Previsão de Tsunamis](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577)
 
 
-<a id="org6e6a310"></a>
+<a id="orge7a1768"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#org65068a8)
+[Voltar para a Lista de Aulas](#org14e2741)
 
 -   Em breve!
