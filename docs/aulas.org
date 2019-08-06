@@ -157,5 +157,5 @@ exercícios dentro do próprio site do livro:
 
 *** Recursos Extras
 1. Por que usar Julia?
-   1.[[https://www.nature.com/articles/d41586-019-02310-3?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_2_JNC_Nature][Artigo]] no site da Revista Nature
+   1. [[https://www.nature.com/articles/d41586-019-02310-3?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_2_JNC_Nature][Artigo]] no site da Revista Nature
 2. Instruções de instalação em português para Julia, IJulia, e Jupyter Notebook (Em breve!)

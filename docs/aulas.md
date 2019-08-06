@@ -1,6 +1,6 @@
 
 
-<a id="org0428e19"></a>
+<a id="orgcfaed48"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -11,19 +11,19 @@ recursos.
 
 # &Iacute;ndice
 
-1.  [MAC0115 - Lista de Aulas](#org0428e19)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org2366a92)
-    2.  [Aula 2 - Uma Breve História da Computação](#org1d1848e)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org30d4563)
+1.  [MAC0115 - Lista de Aulas](#orgcfaed48)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#orgb1adcac)
+    2.  [Aula 2 - Uma Breve História da Computação](#org052b3bf)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org9213392)
 
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="org2366a92"></a>
+<a id="orgb1adcac"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#org0428e19)
+[Voltar para a Lista de Aulas](#orgcfaed48)
 
 
 ### Metodologia de Avaliação para MAC0115
@@ -59,11 +59,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="org1d1848e"></a>
+<a id="org052b3bf"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#org0428e19)
+[Voltar para a Lista de Aulas](#orgcfaed48)
 
 
 ### Computação & Ciência: mini-EP1
@@ -203,11 +203,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     5.  [Previsão de Tsunamis](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577)
 
 
-<a id="org30d4563"></a>
+<a id="org9213392"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#org0428e19)
+[Voltar para a Lista de Aulas](#orgcfaed48)
 
 
 ### Livro *Pense em Julia*
@@ -222,5 +222,5 @@ exercícios dentro do próprio site do livro:
 ### Recursos Extras
 
 1.  Por que usar Julia?
-    1.[Artigo](https://www.nature.com/articles/d41586-019-02310-3?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_2_JNC_Nature) no site da Revista Nature
+    1.  [Artigo](https://www.nature.com/articles/d41586-019-02310-3?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_2_JNC_Nature) no site da Revista Nature
 2.  Instruções de instalação em português para Julia, IJulia, e Jupyter Notebook (Em breve!)
