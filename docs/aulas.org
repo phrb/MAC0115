@@ -47,6 +47,9 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
 *** Nuvens de Palavras e Perguntas ao Vivo
 1. Vá até https://menti.com
 2. Use o código =95 16 17=
+**** Resultados
+1. Veja [[./pdf/breve_historia_computação_nuvem_palavras.pdf][aqui]] o =pdf= com os resultados até agora
+
 *** Slides
 - [[./pdf/breve_historia_computação.pdf][Clique aqui]] para acessar o =pdf= com os slides
 *** Recursos Extras

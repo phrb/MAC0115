@@ -1,6 +1,6 @@
 
 
-<a id="org14e2741"></a>
+<a id="orgd2fa652"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -11,19 +11,19 @@ recursos.
 
 # &Iacute;ndice
 
-1.  [MAC0115 - Lista de Aulas](#org14e2741)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#orgcc7be6a)
-    2.  [Aula 2 - Uma Breve História da Computação](#org5ed5890)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#orge7a1768)
+1.  [MAC0115 - Lista de Aulas](#orgd2fa652)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org7fe6326)
+    2.  [Aula 2 - Uma Breve História da Computação](#org4ff45dc)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org9e73496)
 
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="orgcc7be6a"></a>
+<a id="org7fe6326"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#org14e2741)
+[Voltar para a Lista de Aulas](#orgd2fa652)
 
 
 ### Metodologia de Avaliação para MAC0115
@@ -59,11 +59,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="org5ed5890"></a>
+<a id="org4ff45dc"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#org14e2741)
+[Voltar para a Lista de Aulas](#orgd2fa652)
 
 
 ### Computação & Ciência: mini-EP1
@@ -82,6 +82,10 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 
 1.  Vá até <https://menti.com>
 2.  Use o código `95 16 17`
+
+1.  Resultados
+
+    1.  Veja [aqui](./pdf/breve_historia_computação_nuvem_palavras.pdf) o `pdf` com os resultados até agora
 
 
 ### Slides
@@ -192,10 +196,10 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     5.  [Previsão de Tsunamis](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577)
 
 
-<a id="orge7a1768"></a>
+<a id="org9e73496"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#org14e2741)
+[Voltar para a Lista de Aulas](#orgd2fa652)
 
 -   Em breve!
