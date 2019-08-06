@@ -1,6 +1,6 @@
 
 
-<a id="org1552ab5"></a>
+<a id="org0428e19"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -11,19 +11,19 @@ recursos.
 
 # &Iacute;ndice
 
-1.  [MAC0115 - Lista de Aulas](#org1552ab5)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#orgfe9613a)
-    2.  [Aula 2 - Uma Breve História da Computação](#org1a2491a)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#orga1263b0)
+1.  [MAC0115 - Lista de Aulas](#org0428e19)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org2366a92)
+    2.  [Aula 2 - Uma Breve História da Computação](#org1d1848e)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org30d4563)
 
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="orgfe9613a"></a>
+<a id="org2366a92"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#org1552ab5)
+[Voltar para a Lista de Aulas](#org0428e19)
 
 
 ### Metodologia de Avaliação para MAC0115
@@ -59,11 +59,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="org1a2491a"></a>
+<a id="org1d1848e"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#org1552ab5)
+[Voltar para a Lista de Aulas](#org0428e19)
 
 
 ### Computação & Ciência: mini-EP1
@@ -86,6 +86,9 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 1.  Resultados
 
     1.  Veja [aqui](./pdf/breve_historia_computação_nuvem_palavras.pdf) o `pdf` com os resultados até agora
+    2.  Imagens:
+        1.  [O que é computação?](./img/1-o-que-e-computacao_nuvem.jpg)
+        2.  [Pra que serve computação?](./img/2-pra-que-serve-computacao_nuvem.jpg)
 
 
 ### Slides
@@ -200,10 +203,24 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     5.  [Previsão de Tsunamis](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577)
 
 
-<a id="orga1263b0"></a>
+<a id="org30d4563"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#org1552ab5)
+[Voltar para a Lista de Aulas](#org0428e19)
 
--   Em breve!
+
+### Livro *Pense em Julia*
+
+Estamos traduzindo o livro *Think Julia* para  português, e usamos o capítulo *1. O
+Caminho  do Programa*  nesta aula.  Você  pode acessar  os capítulos  e fazer  os
+exercícios dentro do próprio site do livro:
+
+1.  Acesse o livro [aqui](https://phrb.github.io/PenseJulia/), e clique em *launch binder*
+
+
+### Recursos Extras
+
+1.  Por que usar Julia?
+    1.[Artigo](https://www.nature.com/articles/d41586-019-02310-3?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_2_JNC_Nature) no site da Revista Nature
+2.  Instruções de instalação em português para Julia, IJulia, e Jupyter Notebook (Em breve!)

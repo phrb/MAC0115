@@ -1,4 +1,7 @@
 #+STARTUP: overview indent inlineimages logdrawer
+#+TAGS: noexport(n)
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
 #+OPTIONS: toc:nil TeX:t LaTeX:t
 #+LANGUAGE: es
 
@@ -49,6 +52,9 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
 2. Use o código =95 16 17=
 **** Resultados
 1. Veja [[./pdf/breve_historia_computação_nuvem_palavras.pdf][aqui]] o =pdf= com os resultados até agora
+2. Imagens:
+   1. [[./img/1-o-que-e-computacao_nuvem.jpg][O que é computação?]]
+   2. [[./img/2-pra-que-serve-computacao_nuvem.jpg][Pra que serve computação?]]
 
 *** Slides
 - [[./pdf/breve_historia_computação.pdf][Clique aqui]] para acessar o =pdf= com os slides
@@ -134,4 +140,22 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
 ** Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 [[MAC0115 - Lista de Aulas][Voltar para a Lista de Aulas]]
 
-- Em breve!
+*** mini-EP2: Exercícios do Capítulo 1. O Caminho do Programa    :noexport:
+1. Abra o Notebook do Capítulo 1 [[https://phrb.github.io/PenseJulia/][aqui]]
+2. Salve /uma cópia/ do Capítulo 1 no seu computador
+3. Usando a interface do Notebook pelo /Binder/:
+   1. Faça os exercícios 1 & 2
+4. Salve seu trabalho
+5. Entregue seu Notebook no PACA
+
+*** Livro /Pense em Julia/
+Estamos traduzindo o livro /Think Julia/ para  português, e usamos o capítulo /1. O
+Caminho  do Programa/  nesta aula.  Você  pode acessar  os capítulos  e fazer  os
+exercícios dentro do próprio site do livro:
+
+1. Acesse o livro [[https://phrb.github.io/PenseJulia/][aqui]], e clique em /launch binder/
+
+*** Recursos Extras
+1. Por que usar Julia?
+   1.[[https://www.nature.com/articles/d41586-019-02310-3?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_2_JNC_Nature][Artigo]] no site da Revista Nature
+2. Instruções de instalação em português para Julia, IJulia, e Jupyter Notebook (Em breve!)

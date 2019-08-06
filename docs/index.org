@@ -10,13 +10,14 @@ Aqui você  encontra /links/ para o  material usado nas aulas,  e informações 
 trabalhos,  provas, e  bibliografia.  [[./pdf/MAC0115.pdf][Aqui]]  você  pode baixar  um documento  com
 *informações importantes* sobre o curso.
 
-** Conteúdo do Site
-- [[https://paca.ime.usp.br/course/view.php?id=1448][Página do curso no PACA]]
-- [[file:aulas.html][Lista de Aulas]]
-*** Metodologia de Avaliação
-- [[./pdf/MAC0115.pdf][Metodologia de Avaliação]]
-- Questionários de Avaliação (Em breve)
-*** Enunciados e Notas
-- [[file:mini_eps.html][mini-EPs]]
-- EPs (Em breve)
-- Provas (Em breve)
+** Índice
+1. [[https://paca.ime.usp.br/course/view.php?id=1448][Página do curso no PACA]]
+2. [[file:aulas.html][Lista de Aulas]]
+3. [[https://mybinder.org/v2/gh/phrb/PenseJulia/master][Livro Pense em Julia]]
+4. Avaliação
+   1. [[./pdf/MAC0115.pdf][Metodologia de Avaliação]]
+   2. Questionários de Avaliação (Em breve)
+5. Enunciados e Notas
+   1. [[file:mini_eps.html][mini-EPs]]
+   2. EPs (Em breve)
+   3. Provas (Em breve)
