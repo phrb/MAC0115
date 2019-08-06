@@ -67,6 +67,8 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
 2. [[https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood][The Information: A History, a Theory, a Flood]]
 3. [[https://www.amazon.com/New-Turing-Omnibus-Sixty-Six-Excursions/dp/0805071660][The New Turing Omnibus]]
 ***** Mais links
+****** Aplicativo com o Ábaco Soroban
+- [[https://play.google.com/store/apps/details?id=br.net.btco.soroban&hl=en_US][Simple Soroban]]
 ****** O que é computação?
 1. [[https://en.wikipedia.org/wiki/Quantum_computing][Quantum computing]]
 2. [[https://en.wikipedia.org/wiki/DNA_computing][DNA computing]]

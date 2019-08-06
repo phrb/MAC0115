@@ -1,6 +1,6 @@
 
 
-<a id="orgd2fa652"></a>
+<a id="org1552ab5"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -11,19 +11,19 @@ recursos.
 
 # &Iacute;ndice
 
-1.  [MAC0115 - Lista de Aulas](#orgd2fa652)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org7fe6326)
-    2.  [Aula 2 - Uma Breve História da Computação](#org4ff45dc)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org9e73496)
+1.  [MAC0115 - Lista de Aulas](#org1552ab5)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#orgfe9613a)
+    2.  [Aula 2 - Uma Breve História da Computação](#org1a2491a)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#orga1263b0)
 
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="org7fe6326"></a>
+<a id="orgfe9613a"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#orgd2fa652)
+[Voltar para a Lista de Aulas](#org1552ab5)
 
 
 ### Metodologia de Avaliação para MAC0115
@@ -59,11 +59,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="org4ff45dc"></a>
+<a id="org1a2491a"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#orgd2fa652)
+[Voltar para a Lista de Aulas](#org1552ab5)
 
 
 ### Computação & Ciência: mini-EP1
@@ -117,7 +117,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 
     4.  Mais links
 
-        1.  O que é computação?
+        1.  Aplicativo com o Ábaco Soroban
+
+            -   [Simple Soroban](https://play.google.com/store/apps/details?id=br.net.btco.soroban&hl=en_US)
+
+        2.  O que é computação?
 
             1.  [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
             2.  [DNA computing](https://en.wikipedia.org/wiki/DNA_computing)
@@ -125,7 +129,7 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
             4.  [Molecular electronics](https://en.wikipedia.org/wiki/Molecular_electronics)
             5.  [Membrane computing](https://en.wikipedia.org/wiki/Membrane_computing)
 
-        2.  Outros
+        3.  Outros
 
             1.  <https://www.livescience.com/20718-computer-history.html>
             2.  <https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading03.htm>
@@ -196,10 +200,10 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     5.  [Previsão de Tsunamis](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577)
 
 
-<a id="org9e73496"></a>
+<a id="orga1263b0"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#orgd2fa652)
+[Voltar para a Lista de Aulas](#org1552ab5)
 
 -   Em breve!
