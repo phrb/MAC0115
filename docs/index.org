@@ -11,6 +11,7 @@ trabalhos,  provas, e  bibliografia.  [[./pdf/MAC0115.pdf][Aqui]]  você  pode b
 *informações importantes* sobre o curso.
 
 ** Conteúdo do Site
+- [[https://paca.ime.usp.br/course/view.php?id=1448][Página do curso no PACA]]
 - [[file:aulas.html][Lista de Aulas]]
 *** Metodologia de Avaliação
 - [[./pdf/MAC0115.pdf][Metodologia de Avaliação]]

@@ -13,6 +13,7 @@ trabalhos,  provas, e  bibliografia.  [Aqui](./pdf/MAC0115.pdf)  você  pode bai
 
 ## Conteúdo do Site
 
+-   [Página do curso no PACA](https://paca.ime.usp.br/course/view.php?id=1448)
 -   [Lista de Aulas](aulas.html)
 
 
