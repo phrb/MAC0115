@@ -9,6 +9,8 @@ entregues no [[https://paca.ime.usp.br/course/view.php?id=1448][PACA]].
 [[file:index.html][Voltar para a Página Inicial]]
 
 ** Computação & Ciência: mini-EP1
+[[Lista de mini-EPs][Voltar para Lista de mini-EPs]]
+
 1. *Encontre* um exemplo de *pesquisa científica* que:
    - Desperte o *seu interesse*
    - Tenha sido *facilitado* ou *tornado possível* pela *computação moderna*
@@ -17,3 +19,13 @@ entregues no [[https://paca.ime.usp.br/course/view.php?id=1448][PACA]].
    - Inclua *links* para a pesquisa
 3. *Entregue* um *arquivo =pdf=* no *PACA*
    - Até a *próxima Quinta, 08/08*
+** mini-EP2: Exercícios do Capítulo 1. O Caminho do Programa      :noexport:
+[[Lista de mini-EPs][Voltar para Lista de mini-EPs]]
+
+1. Abra o Notebook do Capítulo 1 [[https://phrb.github.io/PenseJulia/][aqui]]
+2. Salve /uma cópia/ do Capítulo 1 no seu computador
+3. Usando a interface do Notebook pelo /Binder/:
+   1. Faça os exercícios 1 & 2
+4. Salve seu trabalho
+5. Entregue seu Notebook no PACA
+   1. Até a *próxima Terça, 13/08*

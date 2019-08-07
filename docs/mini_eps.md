@@ -1,12 +1,12 @@
 
 # Table of Contents
 
-1.  [Lista de mini-EPs](#org7ba42ee)
-    1.  [Computação & Ciência: mini-EP1](#org2b96614)
+1.  [Lista de mini-EPs](#orgba744cd)
+    1.  [Computação & Ciência: mini-EP1](#orgde5f682)
 
 
 
-<a id="org7ba42ee"></a>
+<a id="orgba744cd"></a>
 
 # Lista de mini-EPs
 
@@ -16,9 +16,11 @@ entregues no [PACA](https://paca.ime.usp.br/course/view.php?id=1448).
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="org2b96614"></a>
+<a id="orgde5f682"></a>
 
 ## Computação & Ciência: mini-EP1
+
+[Voltar para Lista de mini-EPs](#orgba744cd)
 
 1.  **Encontre** um exemplo de **pesquisa científica** que:
     -   Desperte o **seu interesse**
