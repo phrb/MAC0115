@@ -149,6 +149,10 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
 5. Entregue seu Notebook no PACA
    - Até a *próxima Terça, 13/08*
 
+*** Nuvens de Palavras e Perguntas ao Vivo
+1. Vá até https://menti.com
+2. Use o código =90 58 92=
+
 *** Livro /Pense em Julia/
 Estamos traduzindo o livro /Think Julia/ para  português, e usamos o capítulo /1. O
 Caminho  do Programa/  nesta aula.  Você  pode acessar  os capítulos  e fazer  os
