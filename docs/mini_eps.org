@@ -1,6 +1,6 @@
 #+STARTUP: overview indent inlineimages logdrawer
 #+OPTIONS: toc:t TeX:t LaTeX:t
-#+LANGUAGE: bt-br
+#+LANGUAGE: es
 
 * Lista de mini-EPs
 Aqui você  encontra instruções e  informações sobre  os /mini-EPs/, que  devem ser
