@@ -45,8 +45,11 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
      - *Sensores*, *satélites*, *volume de dados*, *simulações*, \dots
 2. *Escreva um parágrafo* resumindo a pesquisa
    - Inclua *links* para a pesquisa
-3. *Entregue* um *arquivo =pdf=* no *PACA*
-   - Até a *próxima Quinta, 08/08*
+3. *Entregue* no *PACA*. Alguns *pontos importantes*:
+   - Formato do arquivo *deve ser =pdf=*
+   - Nome do arquivo deve ser no formato =SEU_NOME_miniEP1.pdf=
+   - Usar *corretor ortográfico*
+   - Até a *próxima Sexta, 09/08*
 *** Nuvens de Palavras e Perguntas ao Vivo
 1. Vá até https://menti.com
 2. Use o código =95 16 17=

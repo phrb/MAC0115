@@ -1,6 +1,6 @@
 
 
-<a id="orgac5a7f5"></a>
+<a id="org642d262"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -11,19 +11,19 @@ recursos.
 
 # &Iacute;ndice
 
-1.  [MAC0115 - Lista de Aulas](#orgac5a7f5)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org7bc4794)
-    2.  [Aula 2 - Uma Breve História da Computação](#org23e9e36)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org723b302)
+1.  [MAC0115 - Lista de Aulas](#org642d262)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#orgf02340e)
+    2.  [Aula 2 - Uma Breve História da Computação](#orgbf6f384)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org84955fa)
 
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="org7bc4794"></a>
+<a id="orgf02340e"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#orgac5a7f5)
+[Voltar para a Lista de Aulas](#org642d262)
 
 
 ### Metodologia de Avaliação para MAC0115
@@ -59,11 +59,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="org23e9e36"></a>
+<a id="orgbf6f384"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#orgac5a7f5)
+[Voltar para a Lista de Aulas](#org642d262)
 
 
 ### Computação & Ciência: mini-EP1
@@ -74,8 +74,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
         -   **Sensores**, **satélites**, **volume de dados**, **simulações**, &hellip;
 2.  **Escreva um parágrafo** resumindo a pesquisa
     -   Inclua **links** para a pesquisa
-3.  **Entregue** um **arquivo `pdf`** no **PACA**
-    -   Até a **próxima Quinta, 08/08**
+3.  **Entregue** no **PACA**. Alguns **pontos importantes**:
+    -   Formato do arquivo **deve ser `pdf`**
+    -   Nome do arquivo deve ser no formato `SEU_NOME_miniEP1.pdf`
+    -   Usar **corretor ortográfico**
+    -   Até a **próxima Sexta, 09/08**
 
 
 ### Nuvens de Palavras e Perguntas ao Vivo
@@ -203,11 +206,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     5.  [Previsão de Tsunamis](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577)
 
 
-<a id="org723b302"></a>
+<a id="org84955fa"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#orgac5a7f5)
+[Voltar para a Lista de Aulas](#org642d262)
 
 
 ### Nuvens de Palavras e Perguntas ao Vivo
