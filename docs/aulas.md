@@ -1,6 +1,6 @@
 
 
-<a id="org951a3a2"></a>
+<a id="orgaf18df9"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -11,19 +11,19 @@ recursos.
 
 # &Iacute;ndice
 
-1.  [MAC0115 - Lista de Aulas](#org951a3a2)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org2b90d49)
-    2.  [Aula 2 - Uma Breve História da Computação](#org1420462)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org963d5d1)
+1.  [MAC0115 - Lista de Aulas](#orgaf18df9)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#orga1ae003)
+    2.  [Aula 2 - Uma Breve História da Computação](#org14e6853)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org7d48693)
 
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="org2b90d49"></a>
+<a id="orga1ae003"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#org951a3a2)
+[Voltar para a Lista de Aulas](#orgaf18df9)
 
 
 ### Metodologia de Avaliação para MAC0115
@@ -59,11 +59,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="org1420462"></a>
+<a id="org14e6853"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#org951a3a2)
+[Voltar para a Lista de Aulas](#orgaf18df9)
 
 
 ### Computação & Ciência: mini-EP1
@@ -206,11 +206,24 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     5.  [Previsão de Tsunamis](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577)
 
 
-<a id="org963d5d1"></a>
+<a id="org7d48693"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#org951a3a2)
+[Voltar para a Lista de Aulas](#orgaf18df9)
+
+
+### mini-EP2: Exercícios do Capítulo 1. O Caminho do Programa
+
+1.  Abra o Notebook do Capítulo 1 [aqui](https://phrb.github.io/PenseJulia/)
+2.  Salve *uma cópia* do Capítulo 1 no seu computador
+3.  Usando a interface do Notebook pelo *Binder*:
+    1.  Faça os exercícios 1 & 2
+4.  Salve seu trabalho
+5.  Entregue seu Notebook no PACA
+    1.  Formato do arquivo **deve ser `.ipynb`**
+    2.  Nome do arquivo deve ser no formato `SEU_NOME_miniEP2.ipynb`
+    3.  Até a **próxima Terça, 13/08**
 
 
 ### Nuvens de Palavras e Perguntas ao Vivo
