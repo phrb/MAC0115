@@ -1,12 +1,13 @@
 
 # &Iacute;ndice
 
-1.  [Lista de mini-EPs](#org627c66d)
-    1.  [Computação & Ciência: mini-EP1](#orgfc2c6e0)
+1.  [Lista de mini-EPs](#orga80d18e)
+    1.  [Computação & Ciência: mini-EP1](#orgc81b19d)
+    2.  [mini-EP2: Exercícios do Capítulo 1. O Caminho do Programa](#orgedf0b10)
 
 
 
-<a id="org627c66d"></a>
+<a id="orga80d18e"></a>
 
 # Lista de mini-EPs
 
@@ -16,11 +17,11 @@ entregues no [PACA](https://paca.ime.usp.br/course/view.php?id=1448).
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="orgfc2c6e0"></a>
+<a id="orgc81b19d"></a>
 
 ## Computação & Ciência: mini-EP1
 
-[Voltar para Lista de mini-EPs](#org627c66d)
+[Voltar para Lista de mini-EPs](#orga80d18e)
 
 1.  **Encontre** um exemplo de **pesquisa científica** que:
     -   Desperte o **seu interesse**
@@ -33,3 +34,20 @@ entregues no [PACA](https://paca.ime.usp.br/course/view.php?id=1448).
     -   Nome do arquivo deve ser no formato `SEU_NOME_miniEP1.pdf`
     -   Usar **corretor ortográfico**
     -   Até a **próxima Sexta, 09/08**
+
+
+<a id="orgedf0b10"></a>
+
+## mini-EP2: Exercícios do Capítulo 1. O Caminho do Programa
+
+[Voltar para Lista de mini-EPs](#orga80d18e)
+
+1.  Abra o Notebook do Capítulo 1 [aqui](https://phrb.github.io/PenseJulia/)
+2.  Salve *uma cópia* do Capítulo 1 no seu computador
+3.  Usando a interface do Notebook pelo *Binder*:
+    1.  Faça os exercícios 1 & 2
+4.  Salve seu trabalho
+5.  Entregue seu Notebook no PACA
+    -   Formato do arquivo **deve ser `.ipynb`**
+    -   Nome do arquivo deve ser no formato `SEU_NOME_miniEP1.ipynb`
+    -   Até a **próxima Terça, 13/08**

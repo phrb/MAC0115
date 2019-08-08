@@ -150,6 +150,8 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
    1. Faça os exercícios 1 & 2
 4. Salve seu trabalho
 5. Entregue seu Notebook no PACA
+   - Formato do arquivo *deve ser =.ipynb=*
+   - Nome do arquivo deve ser no formato =SEU_NOME_miniEP1.ipynb=
    - Até a *próxima Terça, 13/08*
 
 *** Nuvens de Palavras e Perguntas ao Vivo

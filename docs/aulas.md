@@ -1,6 +1,6 @@
 
 
-<a id="org642d262"></a>
+<a id="org8a5c7a6"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -11,19 +11,19 @@ recursos.
 
 # &Iacute;ndice
 
-1.  [MAC0115 - Lista de Aulas](#org642d262)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#orgf02340e)
-    2.  [Aula 2 - Uma Breve História da Computação](#orgbf6f384)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org84955fa)
+1.  [MAC0115 - Lista de Aulas](#org8a5c7a6)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org27721f3)
+    2.  [Aula 2 - Uma Breve História da Computação](#orga2d1846)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org82a0111)
 
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="orgf02340e"></a>
+<a id="org27721f3"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#org642d262)
+[Voltar para a Lista de Aulas](#org8a5c7a6)
 
 
 ### Metodologia de Avaliação para MAC0115
@@ -59,11 +59,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="orgbf6f384"></a>
+<a id="orga2d1846"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#org642d262)
+[Voltar para a Lista de Aulas](#org8a5c7a6)
 
 
 ### Computação & Ciência: mini-EP1
@@ -206,11 +206,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     5.  [Previsão de Tsunamis](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577)
 
 
-<a id="org84955fa"></a>
+<a id="org82a0111"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#org642d262)
+[Voltar para a Lista de Aulas](#org8a5c7a6)
 
 
 ### Nuvens de Palavras e Perguntas ao Vivo
