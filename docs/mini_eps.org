@@ -31,6 +31,6 @@ entregues no [[https://paca.ime.usp.br/course/view.php?id=1448][PACA]].
    1. Faça os exercícios 1 & 2
 4. Salve seu trabalho
 5. Entregue seu Notebook no PACA
-   - Formato do arquivo *deve ser =.ipynb=*
-   - Nome do arquivo deve ser no formato =SEU_NOME_miniEP1.ipynb=
-   1. Até a *próxima Terça, 13/08*
+   1. Formato do arquivo *deve ser =.ipynb=*
+   2. Nome do arquivo deve ser no formato =SEU_NOME_miniEP2.ipynb=
+   3. Até a *próxima Terça, 13/08*

@@ -1,6 +1,6 @@
 
 
-<a id="org8a5c7a6"></a>
+<a id="org951a3a2"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -11,19 +11,19 @@ recursos.
 
 # &Iacute;ndice
 
-1.  [MAC0115 - Lista de Aulas](#org8a5c7a6)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org27721f3)
-    2.  [Aula 2 - Uma Breve História da Computação](#orga2d1846)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org82a0111)
+1.  [MAC0115 - Lista de Aulas](#org951a3a2)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org2b90d49)
+    2.  [Aula 2 - Uma Breve História da Computação](#org1420462)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org963d5d1)
 
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="org27721f3"></a>
+<a id="org2b90d49"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#org8a5c7a6)
+[Voltar para a Lista de Aulas](#org951a3a2)
 
 
 ### Metodologia de Avaliação para MAC0115
@@ -59,11 +59,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="orga2d1846"></a>
+<a id="org1420462"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#org8a5c7a6)
+[Voltar para a Lista de Aulas](#org951a3a2)
 
 
 ### Computação & Ciência: mini-EP1
@@ -206,17 +206,24 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     5.  [Previsão de Tsunamis](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577)
 
 
-<a id="org82a0111"></a>
+<a id="org963d5d1"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#org8a5c7a6)
+[Voltar para a Lista de Aulas](#org951a3a2)
 
 
 ### Nuvens de Palavras e Perguntas ao Vivo
 
 1.  Vá até <https://menti.com>
-2.  Use o código `90 58 92`
+2.  Use o código `90 58 52`
+
+1.  Resultados
+
+    1.  Veja [aqui](./pdf/o_caminho_do_programa_nuvem.pdf) o `pdf` com os resultados até agora
+    2.  Imagens:
+        1.  [O que é um programa?](./img/1-o-que-e-um-programa.jpg)
+        2.  [Pra que serve computação?](./img/2-o-que-e-um-bug.jpg)
 
 
 ### Livro *Pense em Julia*
@@ -232,4 +239,5 @@ exercícios dentro do próprio site do livro:
 
 1.  Por que usar Julia?
     1.  [Artigo](https://www.nature.com/articles/d41586-019-02310-3?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_2_JNC_Nature) no site da Revista Nature
+    2.  [Julia vs. Python: Qual a melhor para ciência de dados](https://cio.com.br/julia-vs-python-qual-e-a-melhor-para-a-ciencia-de-dados/)
 2.  [Instruções de instalação em português para Julia, IJulia, e Jupyter Notebook](./pdf/instalação_julia.pdf)

@@ -150,13 +150,19 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
    1. Faça os exercícios 1 & 2
 4. Salve seu trabalho
 5. Entregue seu Notebook no PACA
-   - Formato do arquivo *deve ser =.ipynb=*
-   - Nome do arquivo deve ser no formato =SEU_NOME_miniEP1.ipynb=
-   - Até a *próxima Terça, 13/08*
+   1. Formato do arquivo *deve ser =.ipynb=*
+   2. Nome do arquivo deve ser no formato =SEU_NOME_miniEP2.ipynb=
+   3. Até a *próxima Terça, 13/08*
 
 *** Nuvens de Palavras e Perguntas ao Vivo
 1. Vá até https://menti.com
-2. Use o código =90 58 92=
+2. Use o código =90 58 52=
+**** Resultados
+1. Veja [[./pdf/o_caminho_do_programa_nuvem.pdf][aqui]] o =pdf= com os resultados até agora
+2. Imagens:
+   1. [[./img/1-o-que-e-um-programa.jpg][O que é um programa?]]
+   2. [[./img/2-o-que-e-um-bug.jpg][Pra que serve computação?]]
+
 
 *** Livro /Pense em Julia/
 Estamos traduzindo o livro /Think Julia/ para  português, e usamos o capítulo /1. O
@@ -168,4 +174,5 @@ exercícios dentro do próprio site do livro:
 *** Recursos Extras
 1. Por que usar Julia?
    1. [[https://www.nature.com/articles/d41586-019-02310-3?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_2_JNC_Nature][Artigo]] no site da Revista Nature
+   2. [[https://cio.com.br/julia-vs-python-qual-e-a-melhor-para-a-ciencia-de-dados/][Julia vs. Python: Qual a melhor para ciência de dados]]
 2. [[./pdf/instalação_julia.pdf][Instruções de instalação em português para Julia, IJulia, e Jupyter Notebook]]
