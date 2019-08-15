@@ -1,6 +1,6 @@
 
 
-<a id="orgaf18df9"></a>
+<a id="org8285120"></a>
 
 # MAC0115 - Lista de Aulas
 
@@ -11,19 +11,21 @@ recursos.
 
 # &Iacute;ndice
 
-1.  [MAC0115 - Lista de Aulas](#orgaf18df9)
-    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#orga1ae003)
-    2.  [Aula 2 - Uma Breve História da Computação](#org14e6853)
-    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org7d48693)
+1.  [MAC0115 - Lista de Aulas](#org8285120)
+    1.  [Aula 1 - Computação sem Computador & Problemas de Lógica](#org22a8577)
+    2.  [Aula 2 - Uma Breve História da Computação](#orgbb4a959)
+    3.  [Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia](#org212e324)
+    4.  [Aula 4 - Variáveis, Expressões, e Instruções](#orgaa328b1)
+    5.  [Aula 5 - Funções](#org8493b11)
 
 [Voltar para a Página Inicial](index.html)
 
 
-<a id="orga1ae003"></a>
+<a id="org22a8577"></a>
 
 ## Aula 1 - Computação sem Computador & Problemas de Lógica
 
-[Voltar para a Lista de Aulas](#orgaf18df9)
+[Voltar para a Lista de Aulas](#org8285120)
 
 
 ### Metodologia de Avaliação para MAC0115
@@ -59,11 +61,11 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
 -   [Versão completa em Inglês](https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 
-<a id="org14e6853"></a>
+<a id="orgbb4a959"></a>
 
 ## Aula 2 - Uma Breve História da Computação
 
-[Voltar para a Lista de Aulas](#orgaf18df9)
+[Voltar para a Lista de Aulas](#org8285120)
 
 
 ### Computação & Ciência: mini-EP1
@@ -206,20 +208,20 @@ A atividade **Batalha Naval** veio do livro **Computação sem Computador**:
     5.  [Previsão de Tsunamis](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062577)
 
 
-<a id="org7d48693"></a>
+<a id="org212e324"></a>
 
 ## Aula 3 - O Caminho do Programa: Introdução à Linguagem Julia
 
-[Voltar para a Lista de Aulas](#orgaf18df9)
+[Voltar para a Lista de Aulas](#org8285120)
 
 
 ### mini-EP2: Exercícios do Capítulo 1. O Caminho do Programa
 
 1.  Abra o Notebook do Capítulo 1 [aqui](https://phrb.github.io/PenseJulia/)
-2.  Salve *uma cópia* do Capítulo 1 no seu computador
-3.  Usando a interface do Notebook pelo *Binder*:
+2.  Usando a **interface** do Notebook pelo **Binder**:
     1.  Faça os exercícios 1 & 2
-4.  Salve seu trabalho
+3.  **Salve** seu trabalho
+4.  Faça o **download do notebook com seu trabalho**
 5.  Entregue seu Notebook no PACA
     1.  Formato do arquivo **deve ser `.ipynb`**
     2.  Nome do arquivo deve ser no formato `SEU_NOME_miniEP2.ipynb`
@@ -254,3 +256,48 @@ exercícios dentro do próprio site do livro:
     1.  [Artigo](https://www.nature.com/articles/d41586-019-02310-3?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_2_JNC_Nature) no site da Revista Nature
     2.  [Julia vs. Python: Qual a melhor para ciência de dados](https://cio.com.br/julia-vs-python-qual-e-a-melhor-para-a-ciencia-de-dados/)
 2.  [Instruções de instalação em português para Julia, IJulia, e Jupyter Notebook](./pdf/instalação_julia.pdf)
+
+
+<a id="orgaa328b1"></a>
+
+## Aula 4 - Variáveis, Expressões, e Instruções
+
+[Voltar para a Lista de Aulas](#org8285120)
+
+
+### mini-EP3: Exercícios do Capítulo 2. Variáveis, Expressões, e Instruções
+
+1.  Abra o Notebook do Capítulo 2 [aqui](https://phrb.github.io/PenseJulia/), ou em sua **instalação local do Jupyter**
+2.  Usando a **interface** do Notebook:
+    1.  Faça **todos os items** do exercício 2.3
+3.  **Salve** seu trabalho
+4.  Se estiver usando o **Binder**, faça o **download do notebook com o seu trabalho**
+5.  Entregue seu Notebook no PACA
+    1.  O formato do arquivos **deve ser `.ipynb`, ou `.jl`**
+    2.  O nome do arquivo deve ser no formato `Seu_Nome_miniEP3.ipynb` (exemplo: `Alfredo_Goldman_miniEP3.ipynb`)
+    3.  A data de entrega é **Terça, 20/08**
+
+
+### Livro *Pense em Julia*
+
+Estamos  traduzindo o  livro *Think  Julia* para  português, e  usamos o  capítulo
+*2.  Variáveis,  Expressões  e  Instruções*  nesta aula.   Você  pode  acessar  os
+capítulos e fazer os exercícios dentro do próprio site do livro:
+
+1.  Acesse o livro [aqui](https://phrb.github.io/PenseJulia/), e clique em *launch binder*
+
+
+<a id="org8493b11"></a>
+
+## Aula 5 - Funções
+
+[Voltar para a Lista de Aulas](#org8285120)
+
+
+### Livro *Pense em Julia*
+
+Estamos  traduzindo o  livro *Think  Julia* para  português, e  usamos o  capítulo
+*3. Funções*  nesta aula.  Você  pode acessar os  capítulos e fazer  os exercícios
+dentro do próprio site do livro:
+
+1.  Acesse o livro [aqui](https://phrb.github.io/PenseJulia/), e clique em *launch binder*
